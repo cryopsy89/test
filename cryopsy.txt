@@ -1,0 +1,37 @@
+commit c76da19ed3a8ea79f375ae5818122f3fdfb5c1bf
+Author: Viktor Domovnikov <cryopsy@hotmail.com>
+Date:   Sat Oct 7 17:19:34 2023 +0500
+
+    отправка в github
+
+commit 5c08b48450769c2b7842eb7a578662e75c69427b
+Author: Viktor Domovnikov <cryopsy@hotmail.com>
+Date:   Sat Oct 7 13:10:25 2023 +0500
+
+    Объединение веток с TEST
+
+commit 5809e9062da6c773f3e13d02bff64489f81bba6e
+Author: Viktor Domovnikov <cryopsy@hotmail.com>
+Date:   Sat Oct 7 12:55:49 2023 +0500
+
+    Revert "Мой второй коммит"
+    
+    This reverts commit 3020ecd0e22377888ca9a23e2617a3bec947bd4a.
+
+commit adbede5b2398f4025e2cccde56cdc28e3c534257
+Author: Viktor Domovnikov <cryopsy@hotmail.com>
+Date:   Sat Oct 7 12:48:32 2023 +0500
+
+    добавление аудитории
+
+commit 3020ecd0e22377888ca9a23e2617a3bec947bd4a
+Author: Viktor Domovnikov <cryopsy@hotmail.com>
+Date:   Sat Oct 7 12:40:47 2023 +0500
+
+    Мой второй коммит
+
+commit 0ef2fedfb67d888f3014a5b9770035661b1721cf
+Author: Viktor Domovnikov <cryopsy@hotmail.com>
+Date:   Sat Oct 7 12:35:03 2023 +0500
+
+    Мой первый коммит
